@@ -1,0 +1,24 @@
+
+
+BBBBBBBBBBBBBBBBB                             tttt
+B::::::::::::::::B                         ttt:::t
+B::::::BBBBBB:::::B                        t:::::t
+BB:::::B     B:::::B                       t:::::t
+  B::::B     B:::::B  aaaaaaaaaaaaa  ttttttt:::::ttttttt       mmmmmmm    mmmmmmm     aaaaaaaaaaaaa  nnnn  nnnnnnnn
+  B::::B     B:::::B  a::::::::::::a t:::::::::::::::::t     mm:::::::m  m:::::::mm   a::::::::::::a n:::nn::::::::nn
+  B::::BBBBBB:::::B   aaaaaaaaa:::::at:::::::::::::::::t    m::::::::::mm::::::::::m  aaaaaaaaa:::::an::::::::::::::nn
+  B:::::::::::::BB             a::::atttttt:::::::tttttt    m::::::::::::::::::::::m           a::::ann:::::::::::::::n
+  B::::BBBBBB:::::B     aaaaaaa:::::a      t:::::t          m:::::mmm::::::mmm:::::m    aaaaaaa:::::a  n:::::nnnn:::::n
+  B::::B     B:::::B  aa::::::::::::a      t:::::t          m::::m   m::::m   m::::m  aa::::::::::::a  n::::n    n::::n
+  B::::B     B:::::B a::::aaaa::::::a      t:::::t          m::::m   m::::m   m::::m a::::aaaa::::::a  n::::n    n::::n
+  B::::B     B:::::Ba::::a    a:::::a      t:::::t    ttttttm::::m   m::::m   m::::ma::::a    a:::::a  n::::n    n::::n
+BB:::::BBBBBB::::::Ba::::a    a:::::a      t::::::tttt:::::tm::::m   m::::m   m::::ma::::a    a:::::a  n::::n    n::::n
+B:::::::::::::::::B a:::::aaaa::::::a      tt::::::::::::::tm::::m   m::::m   m::::ma:::::aaaa::::::a  n::::n    n::::n
+B::::::::::::::::B   a::::::::::aa:::a       tt:::::::::::ttm::::m   m::::m   m::::m a::::::::::aa:::a n::::n    n::::n
+BBBBBBBBBBBBBBBBB     aaaaaaaaaa  aaaa         ttttttttttt  mmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa nnnnnn    nnnnnn
+
+
+
+
+
+
